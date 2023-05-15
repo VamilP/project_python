@@ -1,0 +1,13 @@
+Commands to start Flask Server:
+
+Step 1) Open cmd in the project directory(where we have our app directory)
+Step 2) Set FLASK_APP=app.py and press Enter
+Step 3) set FLASK_ENV=development (if you get error use --> set FLASK_DEBUG=True)
+Step 4) flask run
+
+
+To create a root, create a HTML file
+
+
+AJAX --> asynchronous java xml
+In Flask, ajax acts as a data carrier from front end to back end.
